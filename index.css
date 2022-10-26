@@ -1,0 +1,67 @@
+/**
+ * Don't change any of the properties. Only replace anywhere it says '**selector goes here**' with the appropriate selector
+*/
+.part-one p{
+color: green;
+}
+.part-one h2{
+  color: green;
+  }
+  .part-one a{
+    color: green;
+    }
+.part-two span{
+  color: red;
+}
+.part-three .background-yellow{
+  color: yellow;
+}
+.part-three .background-pink{
+  color: pink;
+}
+.part-four .red-text{
+  color: red;
+}
+.part-four .blue-text{
+  color: blue;
+}
+header h1{
+    letter-spacing: 10px;
+  }
+  
+.red{ 
+  background-color: red;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.purple{
+  background-color: purple;
+}
+
+.box{
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+#green-border{
+  border: solid 4px green;
+}
+
+#txt{
+    border: solid 2px black;
+    border-radius: 10px;
+  }
+  
+#email{
+    border: solid 3px gray;
+    border-radius: 5px;
+  }
+  
+  /* This selector should stay here */
+  form {
+    clear: left;
+  }
